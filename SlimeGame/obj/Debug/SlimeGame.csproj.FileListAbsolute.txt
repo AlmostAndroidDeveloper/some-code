@@ -1,0 +1,10 @@
+C:\Users\AlmostDeveloper\source\repos\SlimeGame\SlimeGame\obj\Debug\SlimeGame.csprojAssemblyReference.cache
+C:\Users\AlmostDeveloper\source\repos\SlimeGame\SlimeGame\obj\Debug\SilmeGame.Form1.resources
+C:\Users\AlmostDeveloper\source\repos\SlimeGame\SlimeGame\obj\Debug\SlimeGame.csproj.GenerateResource.cache
+C:\Users\AlmostDeveloper\source\repos\SlimeGame\SlimeGame\obj\Debug\SlimeGame.csproj.CoreCompileInputs.cache
+C:\Users\AlmostDeveloper\source\repos\SlimeGame\SlimeGame\obj\Debug\SlimeGame.Properties.Resources.resources
+C:\Users\AlmostDeveloper\source\repos\SlimeGame\SlimeGame\bin\Debug\SlimeGame.exe.config
+C:\Users\AlmostDeveloper\source\repos\SlimeGame\SlimeGame\bin\Debug\SlimeGame.exe
+C:\Users\AlmostDeveloper\source\repos\SlimeGame\SlimeGame\bin\Debug\SlimeGame.pdb
+C:\Users\AlmostDeveloper\source\repos\SlimeGame\SlimeGame\obj\Debug\SlimeGame.exe
+C:\Users\AlmostDeveloper\source\repos\SlimeGame\SlimeGame\obj\Debug\SlimeGame.pdb
