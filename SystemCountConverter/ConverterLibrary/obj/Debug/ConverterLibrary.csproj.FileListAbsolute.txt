@@ -1,0 +1,6 @@
+C:\Users\AlmostDeveloper\source\repos\SystemCountConverter\ConverterLibrary\bin\Debug\ConverterLibrary.dll
+C:\Users\AlmostDeveloper\source\repos\SystemCountConverter\ConverterLibrary\bin\Debug\ConverterLibrary.pdb
+C:\Users\AlmostDeveloper\source\repos\SystemCountConverter\ConverterLibrary\obj\Debug\ConverterLibrary.csprojAssemblyReference.cache
+C:\Users\AlmostDeveloper\source\repos\SystemCountConverter\ConverterLibrary\obj\Debug\ConverterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\AlmostDeveloper\source\repos\SystemCountConverter\ConverterLibrary\obj\Debug\ConverterLibrary.dll
+C:\Users\AlmostDeveloper\source\repos\SystemCountConverter\ConverterLibrary\obj\Debug\ConverterLibrary.pdb

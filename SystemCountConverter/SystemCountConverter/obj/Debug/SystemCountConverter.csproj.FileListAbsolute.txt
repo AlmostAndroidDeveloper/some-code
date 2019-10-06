@@ -1,0 +1,10 @@
+C:\Users\AlmostDeveloper\source\repos\SystemCountConverter\SystemCountConverter\bin\Debug\SystemCountConverter.exe.config
+C:\Users\AlmostDeveloper\source\repos\SystemCountConverter\SystemCountConverter\bin\Debug\SystemCountConverter.exe
+C:\Users\AlmostDeveloper\source\repos\SystemCountConverter\SystemCountConverter\bin\Debug\SystemCountConverter.pdb
+C:\Users\AlmostDeveloper\source\repos\SystemCountConverter\SystemCountConverter\obj\Debug\SystemCountConverter.csprojAssemblyReference.cache
+C:\Users\AlmostDeveloper\source\repos\SystemCountConverter\SystemCountConverter\obj\Debug\SystemCountConverter.csproj.CoreCompileInputs.cache
+C:\Users\AlmostDeveloper\source\repos\SystemCountConverter\SystemCountConverter\obj\Debug\SystemCountConverter.exe
+C:\Users\AlmostDeveloper\source\repos\SystemCountConverter\SystemCountConverter\obj\Debug\SystemCountConverter.pdb
+C:\Users\AlmostDeveloper\source\repos\SystemCountConverter\SystemCountConverter\bin\Debug\ConverterLibrary.dll
+C:\Users\AlmostDeveloper\source\repos\SystemCountConverter\SystemCountConverter\bin\Debug\ConverterLibrary.pdb
+C:\Users\AlmostDeveloper\source\repos\SystemCountConverter\SystemCountConverter\obj\Debug\SystemCountConverter.csproj.CopyComplete
