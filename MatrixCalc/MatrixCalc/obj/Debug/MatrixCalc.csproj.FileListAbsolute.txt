@@ -1,0 +1,7 @@
+C:\Users\AlmostDeveloper\source\repos\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.exe.config
+C:\Users\AlmostDeveloper\source\repos\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.exe
+C:\Users\AlmostDeveloper\source\repos\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.pdb
+C:\Users\AlmostDeveloper\source\repos\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csprojAssemblyReference.cache
+C:\Users\AlmostDeveloper\source\repos\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csproj.CoreCompileInputs.cache
+C:\Users\AlmostDeveloper\source\repos\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.exe
+C:\Users\AlmostDeveloper\source\repos\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.pdb
